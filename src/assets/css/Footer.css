@@ -11,3 +11,8 @@ p.copy{
 display: inline-block;
 margin-left: 50%;
 }
+.direccion{
+    text-align: center;
+ display: block;
+ 
+}
