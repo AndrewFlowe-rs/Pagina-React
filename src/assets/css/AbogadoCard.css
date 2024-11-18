@@ -1,0 +1,40 @@
+
+
+@media (min-width: 769px) {
+.card {
+    display: inline-block;
+    margin-left: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.8s;
+    width:30%;
+    height: 30%;
+  }
+  
+  .card:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(210, 210, 210, 0.92);
+    margin: 1.9%
+  
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .info {
+    padding: 16px;
+  }
+  
+  .info h2 {
+    margin: 0;
+    font-size: 1.5em;
+  }
+  
+  .info p {
+    margin: 8px 0 0;
+    color: #555;
+  }
+}

@@ -1,0 +1,13 @@
+footer{
+    margin-top: 0px;
+    background-color: #333;
+    border: 1px solid #ccc;
+}
+p{
+    display: inline-block;
+    margin-top :1% 
+}
+p.copy{
+display: inline-block;
+margin-left: 50%;
+}
