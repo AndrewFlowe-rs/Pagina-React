@@ -3,11 +3,14 @@ import React from 'react'
 const Footer = () => {
     return (
         <footer>
-            <h3>Sobre Nosotros :</h3> 
-            <p>En nuestro Bufete de Abogados, somos un equipo de abogados dedicados a proporcionar asesoramiento y representación legal de alta calidad. Nuestra misión es defender los intereses de nuestros clientes con integridad, profesionalismo y dedicación. Con años de experiencia en diversas áreas del derecho, ofrecemos soluciones legales personalizadas y efectivas para cada caso.</p>
-           <h4> Oficina:</h4> <p className='direccion'>Calle Siempreviva 123</p>
-           <p>Contacto: (123) 456-7890</p> 
-            <p className='copy'>&copy; 2023 Bufete de Abogados</p>
+            <h3>Enlaces Útiles :</h3> 
+            <ul>
+            <li><a href="">Inicio </a></li>
+            <li> <a href="">Paises </a></li>
+            <li><a href="">Formulario de Contacto</a></li>
+            
+            </ul>
+          
 
         </footer>
     );

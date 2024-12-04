@@ -1,0 +1,194 @@
+[
+  {
+    "nombre": "Buenos Aires",
+    "descripcion": "La provincia más poblada de Argentina, conocida por sus extensas pampas y su capital, La Plata.",
+    "imagen": "./images/Banderas/provDeBudenosAires.jpg",
+    "ubicacion": { "latitud": -36.6769, "longitud": -60.5588 },
+    "flora": ["Ombú", "Eucalipto", "Ceibo"],
+    "fauna": ["Zorro pampeano", "Carpincho", "Ñandú"]
+  },
+  {
+    "nombre": "CABA",
+    "descripcion": "La Ciudad Autónoma de Buenos Aires, capital del país y centro cultural.",
+    "imagen": "./images/Banderas/ciudadBuenosAires.jpg",
+    "ubicacion": { "latitud": -34.6037, "longitud": -58.3816 },
+    "flora": ["Jacarandá", "Ceibo", "Palo borracho"],
+    "fauna": ["Gorriones", "Palomas", "Murciélagos"]
+  },
+  {
+    "nombre": "Catamarca",
+    "descripcion": "Ubicada en el noroeste, conocida por su paisaje montañoso y su rica historia indígena.",
+    "imagen":  "./images/Banderas/catamarca.jpg",
+    "ubicacion": { "latitud": -28.4696, "longitud": -65.7795 },
+    "flora": ["Cardón", "Algarrobo", "Chañar"],
+    "fauna": ["Cóndor", "Vicuña", "Zorro gris"]
+  },
+  {
+    "nombre": "Chaco",
+    "descripcion": "Famosa por su biodiversidad y el Impenetrable chaqueño.",
+    "imagen":  "./images/Banderas/chaco.jpg",
+    "ubicacion": { "latitud": -26.4140, "longitud": -60.8472 },
+    "flora": ["Quebracho colorado", "Lapacho", "Palma blanca"],
+    "fauna": ["Tatú carreta", "Mono carayá", "Yacaré overo"]
+  },
+  {
+    "nombre": "Chubut",
+    "descripcion": "Provincia patagónica conocida por su costa llena de fauna marina y la Península Valdés.",
+    "imagen":  "./images/Banderas/chubut.jpg",
+    "ubicacion": { "latitud": -43.3002, "longitud": -65.1022 },
+    "flora": ["Coirón", "Jarilla", "Espinillo"],
+    "fauna": ["Ballena franca austral", "Guanaco", "Pingüino de Magallanes"]
+  },
+  {
+    "nombre": "Córdoba",
+    "descripcion": "Conocida por sus sierras, su cultura colonial y su ciudad capital vibrante.",
+    "imagen":  "./images/Banderas/cordoba.jpg",
+    "ubicacion": { "latitud": -31.4201, "longitud": -64.1888 },
+    "flora": ["Espinillo", "Molle", "Palo amarillo"],
+    "fauna": ["Zorro gris", "Puma", "Carancho"]
+  },
+  {
+    "nombre": "Corrientes",
+    "descripcion": "Tierra de los Esteros del Iberá, con una rica biodiversidad.",
+    "imagen":  "./images/Banderas/corrientes.jpg",
+    "ubicacion": { "latitud": -27.4692, "longitud": -58.8335 },
+    "flora": ["Lapacho rosado", "Palma yatay", "Jacarandá"],
+    "fauna": ["Ciervo de los pantanos", "Carpincho", "Yacaré negro"]
+  },
+  {
+    "nombre": "Entre Ríos",
+    "descripcion": "Provincia mesopotámica famosa por sus ríos y termas.",
+    "imagen":  "./images/Banderas/entreRios.jpg",
+    "ubicacion": { "latitud": -32.0071, "longitud": -60.6431 },
+    "flora": ["Espinillo", "Sauce criollo", "Ceibo"],
+    "fauna": ["Carpincho", "Nutria", "Zorro de monte"]
+  },
+  {
+    "nombre": "Formosa",
+    "descripcion": "Conocida por el humedal del Bañado La Estrella y su rica biodiversidad.",
+    "imagen": "./images/Banderas/formosa.jpg",
+    "ubicacion": { "latitud": -26.1722, "longitud": -58.2043 },
+    "flora": ["Quebracho blanco", "Algarrobo", "Itín"],
+    "fauna": ["Guazuncho", "Yaguareté", "Tatú mulita"]
+  },
+  {
+    "nombre": "Jujuy",
+    "descripcion": "Famosa por la Quebrada de Humahuaca, Patrimonio de la Humanidad.",
+    "imagen":  "./images/Banderas/jujuy.jpg",
+    "ubicacion": { "latitud": -23.3819, "longitud": -65.1100 },
+    "flora": ["Cardón", "Queñoa", "Churqui"],
+    "fauna": ["Cóndor andino", "Vicuña", "Zorro colorado"]
+  },
+  {
+    "nombre": "La Pampa",
+    "descripcion": "Provincia central conocida por sus llanuras y actividades agropecuarias.",
+    "imagen":  "./images/Banderas/lapampa.jpg",
+    "ubicacion": { "latitud": -37.2423, "longitud": -65.4461 },
+    "flora": ["Algarrobo", "Caldén", "Jarilla"],
+    "fauna": ["Ñandú", "Zorro pampeano", "Vizcacha"]
+  },
+  {
+    "nombre": "La Rioja",
+    "descripcion": "Conocida por sus parques nacionales y paisajes desérticos.",
+    "imagen":  "./images/Banderas/laRrioja.jpg",
+    "ubicacion": { "latitud": -29.4131, "longitud": -66.8558 },
+    "flora": ["Algarrobo", "Chañar", "Jarilla"],
+    "fauna": ["Cóndor", "Zorro gris", "Puma"]
+  },
+  {
+    "nombre": "Mendoza",
+    "descripcion": "Famosa por sus viñedos y la cordillera de los Andes.",
+    "imagen":  "./images/Banderas/mendoza.jpg",
+    "ubicacion": { "latitud": -32.8894, "longitud": -68.8458 },
+    "flora": ["Jarilla", "Chañar", "Tamarindo"],
+    "fauna": ["Guanaco", "Cóndor", "Puma"]
+  },
+  {
+    "nombre": "Misiones",
+    "descripcion": "Hogar de las Cataratas del Iguazú y rica en biodiversidad.",
+    "imagen":  "./images/Banderas/misiones.jpg",
+    "ubicacion": { "latitud": -26.8754, "longitud": -54.7567 },
+    "flora": ["Lapacho", "Yerba mate", "Palmito"],
+    "fauna": ["Yaguareté", "Mono carayá", "Tucán"]
+  },
+  {
+    "nombre": "Neuquén",
+    "descripcion": "Conocida por sus paisajes de montaña y sus recursos energéticos.",
+    "imagen":  "./images/Banderas/neuquen.jpg",
+    "ubicacion": { "latitud": -38.9516, "longitud": -68.0591 },
+    "flora": ["Pehuén", "Ñire", "Coirón"],
+    "fauna": ["Huemul", "Guanaco", "Zorro colorado"]
+  },
+  {
+    "nombre": "Río Negro",
+    "descripcion": "Famosa por Bariloche y sus lagos en la cordillera patagónica.",
+    "imagen":  "./images/Banderas/rioNegro.jpg",
+    "ubicacion": { "latitud": -41.1342, "longitud": -67.2325 },
+    "flora": ["Ciprés de la cordillera", "Radal", "Arrayán"],
+    "fauna": ["Cóndor", "Huemul", "Zorro colorado"]
+  },
+  {
+    "nombre": "Salta",
+    "descripcion": "Conocida por sus paisajes montañosos y tradiciones folclóricas.",
+    "imagen": "./images/Banderas/salta.jpg",
+    "ubicacion": { "latitud": -24.7737, "longitud": -65.4133 },
+    "flora": ["Queñoa", "Cactus", "Espinillo"],
+    "fauna": ["Puma", "Cóndor", "Vicuña"]
+  },
+  {
+    "nombre": "San Juan",
+    "descripcion": "Provincia desértica famosa por sus viñedos y el Parque Nacional Ischigualasto.",
+    "imagen":  "./images/Banderas/sanJuan.jpg",
+    "ubicacion": { "latitud": -31.535, "longitud": -68.5365 },
+    "flora": ["Cardón", "Cactus", "Jarilla"],
+    "fauna": ["Guanaco", "Culpeo", "Zorro colorado"]
+  },
+  {
+    "nombre": "San Luis",
+    "descripcion": "Conocida por su rica historia, sierras y parques naturales.",
+    "imagen":  "./images/Banderas/sanLuis.jpg",
+    "ubicacion": { "latitud": -33.2953, "longitud": -66.3358 },
+    "flora": ["Pino", "Ciprés", "Chañar"],
+    "fauna": ["Ñandú", "Vizcacha", "Gato montés"]
+  },
+  {
+    "nombre": "Santa Cruz",
+    "descripcion": "Provincia patagónica famosa por sus glaciares y parques nacionales.",
+    "imagen":  "./images/Banderas/santaCruz.jpg",
+    "ubicacion": { "latitud": -49.3182, "longitud": -68.2361 },
+    "flora": ["Coirón", "Ñire", "Ciprés de la cordillera"],
+    "fauna": ["Huemul", "Puma", "Guanaco"]
+  },
+  {
+    "nombre": "Santa Fe",
+    "descripcion": "Provincia agrícola e industrial con grandes ciudades como Rosario.",
+    "imagen":  "./images/Banderas/santaFe.jpg",
+    "ubicacion": { "latitud": -31.6200, "longitud": -60.7000 },
+    "flora": ["Sauce criollo", "Acacia", "Espinillo"],
+    "fauna": ["Carpincho", "Zorro", "Nutria"]
+  },
+  {
+    "nombre": "Santiago del Estero",
+    "descripcion": "Conocida por su rica cultura folklórica y la Reserva de Biosfera Laguna de los Pozuelos.",
+    "imagen":  "./images/Banderas/santiagoDelEstero.jpg",
+    "ubicacion": { "latitud": -27.7833, "longitud": -64.2667 },
+    "flora": ["Chañar", "Albardón", "Algarrobo"],
+    "fauna": ["Chajá", "Carpincho", "Yacaré"]
+  },
+  {
+    "nombre": "Tierra del Fuego",
+    "descripcion": "La provincia más austral, famosa por sus paisajes de glaciares y el Canal Beagle.",
+    "imagen": "./images/Banderas/tierraDelFuego.jpg",
+    "ubicacion": { "latitud": -54.8019, "longitud": -68.3028 },
+    "flora": ["Nothofagus", "Coihue", "Ñire"],
+    "fauna": ["Cachalote", "Lobo marino", "Guanaco"]
+  },
+  {
+    "nombre": "Tucumán",
+    "descripcion": "La provincia más pequeña, conocida por su producción de azúcar y su capital, San Miguel de Tucumán.",
+    "imagen":  "./images/Banderas/Tucuman.jpg",
+    "ubicacion": { "latitud": -26.8083, "longitud": -65.2171 },
+    "flora": ["Tala", "Lapacho", "Quebracho"],
+    "fauna": ["Puma", "Mono araña", "Yacaré"]
+  }
+]

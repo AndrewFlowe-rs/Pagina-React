@@ -3,16 +3,12 @@ footer{
     background-color: #333;
     border: 1px solid #ccc;
 }
-p{
-    display: inline-block;
-    margin-top :1% 
+
+ul {
+    list-style-type: none;
+    
+
 }
-p.copy{
-display: inline-block;
-margin-left: 50%;
-}
-.direccion{
-    text-align: center;
- display: block;
- 
+ul li a{
+    color: #fbfbfb;
 }
