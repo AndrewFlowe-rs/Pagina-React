@@ -4,9 +4,10 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
+  color: #ffffffde;
+  background-image: url("../public/images/Banderas/88591448-bandera-argentina-que-agita-en-el-lago-nahuel-huapi-fondo-de-las-montañas-de-los-andes.jpg"); ;
+  background-repeat: repeat-y;
+  
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;

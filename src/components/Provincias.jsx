@@ -30,15 +30,17 @@ Maneja errores en caso de que falle la petición.
 */
 
 return (
+  
   <div className='provincias'>
     {provincias.map((provincia, index) => (
       <div key={index} className='provincia-card' >
         <img src={provincia.imagen} alt={provincia.nombre} className='provincia-image'  />
         <h3>{provincia.nombre}</h3>
-        <p>{provincia.descripcion}</p>
+       
       </div>
     ))}
   </div>
+ 
 );
 };
 

@@ -1,0 +1,71 @@
+
+.provincias {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+}
+.provincia-card {
+   width: 39%;
+   border: 1px solid rgb(192, 11, 11);
+    background-color: rgba(56, 18, 18, 0.489);
+    
+}
+img {
+    width: 50%;
+    height: 50%;
+    margin : 10px;
+  
+}
+h3 {
+    text-align: center;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 426px)  { 
+    
+
+.provincias {
+    width: 100%;
+    border: 1px solid black;
+    display : flex;
+    flex-direction:  row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+}
+.provincia-card {
+    width: 20%;
+    height: 100px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1%;
+    background-color: rgba(102, 99, 99, 0.489);
+
+    
+
+}
+
+.provincia-card:hover {
+    background-color: rgba(39, 97, 100, 0.489);
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75); 
+}
+img {
+    width: 50%;
+    height: 50%;
+    margin : 10px;
+    border: solid 1px black;
+}
+}
