@@ -1,5 +1,5 @@
 import React ,   {useState, useEffect} from 'react'; //Traemos los hooks useState y iseEfect . useState para manejar el estado de las provincias y useEffect para manejar el ciclo de vida del componente para ejecutar el codigo cuando el componente se monta (ideal para llamadaas api)
-import "../assets/css/ProvinciasCard.css";
+import "../assets/css/Provincias.css";
 const Provincias = () => { //Creamos el componente 
  const [provincias, setProvincias] = useState([]); //Creamos el estado de las provincias
  // Provincias almacena la llista de las provincias y setProvincias actualiza el estado de las provincias
